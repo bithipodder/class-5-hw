@@ -1,0 +1,37 @@
+h2{
+font-size: 50px;
+font-family: calibri;
+text-align: center;
+font-style: italic;
+}
+
+span{
+    color: dodgerblue;
+    font-size:30px ;
+}
+p{
+    font-size: 20px;
+    font-family: calibri;
+    text-align: justify;
+    line-height: 30px;
+
+}
+a{
+    text-decoration:none;
+    font-family: calibri;
+    background-color:rgba(145, 5, 84, 0.783);
+    color: white;
+    width: 150px;
+    height: 40px;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+}
+
+    #heading{
+        text-align: right;
+        font-family: calibri;
+        color: burlywood;
+
+    }
+
